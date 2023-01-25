@@ -1,0 +1,34 @@
+<COURSE>
+	<YEAR>10</YEAR>
+	<ID>commserv</ID>
+	<NAME>Freshmen</NAME>
+	<TITLE>Freshmen</TITLE>
+	<SUBTITLE></SUBTITLE>
+	<DESC></DESC>
+	<PROJECTS>
+		<PROJECT>
+			<QUARTER>1</QUARTER>
+			<ID>fll</ID>
+			<NAME>FLL</NAME>
+			<TITLE>First Lego League</TITLE>
+			<SUBTITLE>
+				Roughly 35 hours of Community Service
+			</SUBTITLE>
+			<HTML>
+				<p>During the time I volunteered, I helped keep time for the judges, as well as ensured that people didn't enter before the judges were done.</p>
+			</HTML>
+		</PROJECT>
+		<PROJECT>
+			<QUARTER>2</QUARTER>
+			<ID>blanket</ID>
+			<NAME>Project Warm-Up</NAME>
+			<TITLE>Project Warm-Up</TITLE>
+			<SUBTITLE>
+				Roughly 2 1/2 hours of Community Service
+			</SUBTITLE>
+			<HTML>
+				<p>During the time I volunteered, I made blankets for those who needed them out of fleece.</p>
+			</HTML>
+		</PROJECT>
+	</PROJECTS>
+</COURSE>

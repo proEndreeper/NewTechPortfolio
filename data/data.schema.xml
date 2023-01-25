@@ -1,0 +1,48 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="DATA">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:complexType name="HOME_HTML">
+          <xs:sequence>
+            <xs:any></xs:any>
+          </xs:sequence>
+        </xs:complexType>
+        <xs:element name="COURSES">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="COURSE" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="ID"/>
+                    <xs:element type="xs:string" name="NAME"/>
+                    <xs:element type="xs:string" name="DESC"/>
+                    <xs:element name="PROJECTS">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="PROJECT" maxOccurs="unbounded" minOccurs="0">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:number" name="QUARTER"/>
+                                <xs:element type="xs:string" name="ID"/>
+                                <xs:element type="xs:string" name="NAME"/>
+                                <xs:complexType name="HTML">
+                                  <xs:sequence>
+                                    <xs:any></xs:any>
+                                  </xs:sequence>
+                                </xs:complexType>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

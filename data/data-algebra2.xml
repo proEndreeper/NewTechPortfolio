@@ -1,0 +1,182 @@
+<COURSE>
+  <YEAR>2</YEAR>
+	<ID>algebra_2</ID>
+	<NAME>Algebra II</NAME>
+	<SUBTITLE></SUBTITLE>
+	<DESC></DESC>
+	<PROJECTS>
+		<PROJECT>
+			<QUARTER>1</QUARTER>
+			<ID>groupbuilder-a2</ID>
+			<NAME>groupbuilder.a2</NAME>
+			<TITLE>groupbuilder.a2</TITLE>
+			<SUBTITLE>
+				<span class="date-pair">
+					<b>08/19/2014</b>
+					<i> - </i>
+					<b>08/25/2014</b>
+				</span>
+			</SUBTITLE>
+			<IMG>project-base.png</IMG>
+			<HTML>
+				<p>In this project we created a video that showcased our talents.
+				     This project was the cornerstone of the next project's groups.</p>
+			</HTML>
+		</PROJECT>
+		<PROJECT>
+			<QUARTER>1</QUARTER>
+			<ID>function-family</ID>
+			<NAME>The Function Family</NAME>
+			<TITLE>The Function Family</TITLE>
+			<SUBTITLE>
+				<span class="date-pair">
+					<b>08/26/2014</b>
+					<i> - </i>
+					<b>09/15/2014</b>
+				</span>
+			</SUBTITLE>
+			<IMG>project-base.png</IMG>
+			<HTML>
+				<p>For this project we presented in front of the class a skit that used no props.
+					 The skit was about standard mathematical forms (radical,quadratic,linear,etc.)</p>
+			</HTML>
+		</PROJECT>
+		<PROJECT>
+			<QUARTER>1</QUARTER>
+			<ID>suborbital-flight</ID>
+			<NAME>Suborbital Flight</NAME>
+			<TITLE>Suborbital Flight</TITLE>
+			<SUBTITLE>
+				<span class="date-pair">
+					<b>09/16/2014</b>
+					<i> - </i>
+					<b>10/30/2014</b>
+				</span>
+			</SUBTITLE>
+			<IMG>project-base.png</IMG>
+			<HTML>
+				<p>During this project we designed a flight plan that went into suborbital space.</p>
+			</HTML>
+		</PROJECT>
+		<PROJECT>
+			<QUARTER>2</QUARTER>
+			<ID>engagement-vs-achievement</ID>
+			<NAME>Engagement vs Achievement</NAME>
+			<TITLE>Engagement vs Achievement</TITLE>
+			<SUBTITLE>
+				<span class="date-pair">
+					<b>10/31/2014</b>
+					<i> - </i>
+					<b>11/14/2014</b>
+				</span>
+			</SUBTITLE>
+			<IMG>project-algebra2-00.jpg</IMG>
+			<HTML>
+				<p>During this project we created a report based on findings from a Canadian agency.
+					 Overall we made a report with details of how our grades changed over the course of our high school years.</p>
+			</HTML>
+		</PROJECT>
+		<PROJECT>
+			<QUARTER>2</QUARTER>
+			<ID>polynomial-project</ID>
+			<NAME>Polynomial Project</NAME>
+			<TITLE>Polynomial Project</TITLE>
+			<SUBTITLE>
+				<span class="date-pair">
+					<b>11/19/2014</b>
+					<i> - </i>
+					<b>12/18/2014</b>
+				</span>
+			</SUBTITLE>
+			<IMG>project-base.png</IMG>
+			<HTML>
+				<p>During this project we created a reference card that presented various rules important in polynomials.</p>
+			</HTML>
+		</PROJECT>
+		<PROJECT>
+		  <QUARTER>3</QUARTER>
+		  <ID>statistics</ID>
+		  <NAME>Sitetistics!</NAME>
+		  <TITLE>Sitetistics!</TITLE>
+			<SUBTITLE>
+		    <span class="date-pair">
+		      <b>01/05/2015</b>
+		      <i> - </i>
+		      <b>02/10/2015</b>
+		    </span>
+			</SUBTITLE>
+		  <IMG>project-algebra2-01.jpg</IMG>
+		  <HTML>
+		    <p>During this project we learned about standard deviation, in addition to how statistics are calculated. Our group was assigned to figuring out what kinds of sites are blocked, and are wanted by other students to be unblocked.</p>
+		  </HTML>
+		</PROJECT>
+		<PROJECT>
+		  <QUARTER>3</QUARTER>
+		  <ID>inverse-functions</ID>
+		  <NAME>Inverse Functions</NAME>
+		  <TITLE>Inverse Functions <i>(Quickfire)</i></TITLE>
+			<SUBTITLE>
+		    <span class="date-pair">
+		      <b>02/18/2015</b>
+		      <i> - </i>
+		      <b>02/23/2015</b>
+		    </span>
+			</SUBTITLE>
+			<IMG>project-base.png</IMG>
+		  <HTML>
+		    <p>Using deductive reasoning were we to determine the relationship between inverses and their corresponding pairs.</p>
+		  </HTML>
+		</PROJECT>
+		<PROJECT>
+		  <QUARTER>3</QUARTER>
+		  <ID>radical-functions</ID>
+		  <NAME>Radical Functions</NAME>
+		  <TITLE>Radical Functions</TITLE>
+			<SUBTITLE>
+		    <span class="date-pair">
+		      <b>02/24/2015</b>
+		      <i> - </i>
+		      <b>03/18/2015</b>
+		    </span>
+			</SUBTITLE>
+			<IMG>project-base.png</IMG>
+		  <HTML>
+		    <p>Throughout this project we learned how radical functions may be used in real world problems.</p>
+		  </HTML>
+		</PROJECT>
+		<PROJECT>
+		  <QUARTER>4</QUARTER>
+		  <ID>exponential-and-logarithmetic-functions</ID>
+		  <NAME>Exponential and Logarithmetic Functions</NAME>
+		  <TITLE>Exponential and Logarithmetic Functions</TITLE>
+			<SUBTITLE>
+		    <span class="date-pair">
+		      <b>03/19/2015</b>
+		      <i> - </i>
+		      <b>04/17/2015</b>
+		    </span>
+			</SUBTITLE>
+			<IMG>project-base.png</IMG>
+		  <HTML>
+		    <p>During this project we discussed how exponential and logarithmetic functions applied to real world problems (RWPs).</p>
+		  </HTML>
+		</PROJECT>
+		<PROJECT>
+		  <QUARTER>4</QUARTER>
+		  <ID>trigonometry</ID>
+		  <NAME>Trigonometry</NAME>
+		  <TITLE>Trigonometry</TITLE>
+			<SUBTITLE>
+		    <span class="date-pair">
+		      <b>04/21/2015</b>
+		      <i> - </i>
+		      <b>05/15/2015</b>
+		    </span>
+			</SUBTITLE>
+			<IMG>project-base.png</IMG>
+		  <HTML>
+		    <p>During this project we applied wave patterns along with trigonometry to real world problems (RWPs).</p>
+		  </HTML>
+		</PROJECT>
+	</PROJECTS>
+</COURSE>

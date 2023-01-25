@@ -1,0 +1,40 @@
+<DATA>
+  <HOME_HTML>
+  	<h1>Welcome to my Portfolio!</h1>
+  	<h2>- Devon Schneider</h2>
+  	<p>Click one of the courses above or below to view that course</p>
+  	<ul>
+  	  <li><a href="#algebra_2">Algebra II</a></li>
+  	  <li><a href="#biolit" title="Biology &amp; Literature">BioLit</a></li>
+  	  <li><a href="#chem">Chemistry</a></li>
+  	  <li><a href="#spanish_2">Spanish II</a></li>
+  	  <li><a href="#visual_arts">Exploring Visual Arts</a></li>
+  	</ul>
+  	<p>Last updated as of 05/13/2015.</p>
+  </HOME_HTML>
+  <ABOUT_HTML>
+	<h1>- WIP -</h1>
+  </ABOUT_HTML>
+	<SECTION_NAMES>
+		<SECTION>
+			<ID>qt1</ID>
+			<NAME>Q1</NAME>
+			<TITLE>Quarter 1</TITLE>
+		</SECTION>
+		<SECTION>
+			<ID>qt2</ID>
+			<NAME>Q2</NAME>
+			<TITLE>Quarter 2</TITLE>
+		</SECTION>
+		<SECTION>
+			<ID>qt3</ID>
+			<NAME>Q3</NAME>
+			<TITLE>Quarter 3</TITLE>
+		</SECTION>
+		<SECTION>
+			<ID>qt4</ID>
+			<NAME>Q4</NAME>
+			<TITLE>Quarter 4</TITLE>
+		</SECTION>
+	</SECTION_NAMES>
+</DATA>

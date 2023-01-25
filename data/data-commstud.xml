@@ -1,0 +1,26 @@
+<COURSE>
+	<YEAR>1</YEAR>
+	<ID>commstud</ID>
+	<NAME>Communication Studies</NAME>
+	<TITLE>Communication Studies</TITLE>
+	<SUBTITLE>also known as CommStud</SUBTITLE>
+	<DESC></DESC>
+	<PROJECTS>
+		<PROJECT>
+			<QUARTER>1</QUARTER>
+			<ID>imitation</ID>
+			<NAME>Imitation Project</NAME>
+			<TITLE>Imitation Project</TITLE>
+			<SUBTITLE>
+				<span class="date-pair">
+					<b>08/19/2013</b>
+					<i> - </i>
+					<b>09/13/2013</b>
+				</span>
+			</SUBTITLE>
+			<HTML>
+				<p>During this project we attempted to replicate the proper speech tactics of a famous speech</p>
+			</HTML>
+		</PROJECT>
+	</PROJECTS>
+</COURSE>

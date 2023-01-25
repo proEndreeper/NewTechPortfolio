@@ -1,0 +1,252 @@
+<COURSE>
+  <YEAR>2</YEAR>
+  <ID>biolit</ID>
+  <NAME>BioLit</NAME>
+	<SUBTITLE>Biology &amp; Literature</SUBTITLE>
+  <DESC></DESC>
+  <PROJECTS>
+    <PROJECT>
+      <QUARTER>1</QUARTER>
+      <ID>white-fang</ID>
+      <NAME>White Fang</NAME>
+			<TITLE>White Fang, the Key</TITLE>
+			<SUBTITLE>
+				<span class="date-pair">
+					<b>08/18/2014</b>
+					<i> - </i>
+					<b>09/26/2014</b>
+				</span>
+			</SUBTITLE>
+			<IMG>project-biolit-00.png</IMG>
+      <HTML>
+				<p>During this project we read White Fang.
+				     As we read it we worked on various benchmarks that related to how a natural environment is affected by humans.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>1</QUARTER>
+      <ID>razas-de-perros</ID>
+      <NAME>Razas de Perros</NAME>
+      <TITLE>Razas de Perros <i>(Quickfire)</i></TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>09/29/2014</b>
+					<i> - </i>
+					<b>10/03/2014</b>
+				</span>
+      </SUBTITLE>
+      <IMG>project-biolit-01.jpeg</IMG>
+      <HTML>
+				<p>Throughout this project we theorized as to what White Fang and Collie's puppies would look like. We did this by use of pedigree charts.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>1</QUARTER>
+      <ID>expresso-yo-cells</ID>
+      <NAME>Expresso Yo&apos; Cells</NAME>
+			<TITLE>Expresso Yo&apos; Cells</TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>10/06/2014</b>
+					<i> - </i>
+					<b>10/23/2014</b>
+				</span>
+      </SUBTITLE>
+			<IMG>project-biolit-02.jpeg</IMG>
+      <HTML>
+				<p>During this project we created poetry that described the connection between our personality and our genetic traits. We then published all our poems on our <a title="View Site" href="http://biologypoemsbolit.weebly.com/">group&apos;s site.</a></p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>2</QUARTER>
+      <ID>cell-city</ID>
+      <NAME>Cell City</NAME>
+      <TITLE>Cell City <i>(Quickfire)</i></TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>10/22/2014</b>
+					<i> - </i>
+					<b>10/27/2014</b>
+				</span>
+      </SUBTITLE>
+      <IMG>project-biolit-03.jpg</IMG>
+      <HTML>
+				<p>In this quickfire, we developed analogies for various parts of a plant or animal cell. As part of this we were required to choose a place in Sioux Falls. Our group chose to use the falls.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>2</QUARTER>
+      <ID>murder-we-wrote</ID>
+      <NAME>Murder, We Wrote</NAME>
+      <TITLE>Murder, We Wrote</TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>10/26/2014</b>
+					<i> - </i>
+					<b>11/13/2014</b>
+				</span>
+      </SUBTITLE>
+      <IMG>project-biolit-04.jpeg</IMG>
+      <HTML>
+				<p>Throughout this project did we analyse a crime scene with 2 other groups. Once we had figured out our crime scene, we presented our findings to the class. Near the end, we with our individual groups, made a novella that described a crime. Our group's novella was about a deranged murder.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>2</QUARTER>
+      <ID>shakespeare-evolved</ID>
+      <NAME>Shakespeare: Evolved</NAME>
+      <TITLE>Shakespeare: Evolved</TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>11/18/2014</b>
+					<i> - </i>
+					<b>12/19/2014</b>
+				</span>
+      </SUBTITLE>
+      <IMG>project-biolit-05.jpg</IMG>
+      <HTML>
+				<p>During this project, our group developed a modernized version of a scene from Taming of the Shrew. We then conveyed what triggered our target emotion. For our emotion, grief, we chose Act 5, Scene 1.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>demon-in-the-freezer</ID>
+      <NAME>The Demon in the Freezer</NAME>
+      <TITLE>The Demon in the Freezer</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>01/05/2015</b>
+          <i> - </i>
+          <b>01/23/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-biolit-06.jpg</IMG>
+      <HTML>
+        <p>During this project did we invent our own infection, one that we'd present as a specimen of what could truly harm our world, for it had adapted to the conditions that we have countlessly taken for granted.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>fault-in-our-stars</ID>
+      <NAME>The Fault in our Stars</NAME>
+      <TITLE>The Fault in our Stars</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>01/26/2015</b>
+          <i> - </i>
+          <b>02/27/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-biolit-07.jpg</IMG>
+      <HTML>
+        <p>Throughout this project did we read about a girl who was diagnosed with a life-threatening cancer. Whilst doing so did we create a booth that demonstrated our knowledge of how cancer occurs, all while maintaining a reasearch paper that described our cancer to those unaware of how it may affect them, if they were to discover they were at risk for it.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>frankenstein</ID>
+      <NAME>Building Frankenstein's Monster</NAME>
+      <TITLE>Building Frankenstein's Monster</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>02/26/2015</b>
+          <i> - </i>
+          <b>03/11/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-biolit-08.jpg</IMG>
+      <HTML>
+        <p>Throughout this project, did we as a class create a model, not necessarily piece by piece, rather system by system.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>4</QUARTER>
+      <ID>what-on-earth</ID>
+      <NAME>What on Earth?</NAME>
+      <TITLE>What on Earth?</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>03/13/2015</b>
+          <i> - </i>
+          <b>03/11/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-biolit-09.png</IMG>
+      <HTML>
+        <p>This project was composed of the creation of an ecosystem. During this did each group create a separate creature that we had to explain as though we were aliens.</p>
+      </HTML>
+    </PROJECT>
+		<PROJECT>
+			<QUARTER>4</QUARTER>
+			<ID>green-thumbs</ID>
+			<NAME>Green Thumbs</NAME>
+			<TITLE>Green Thumbs</TITLE>
+			<SUBTITLE>
+        <span class="date-pair">
+          <b>03/23/2015</b>
+          <i> - </i>
+          <b>05/13/2015</b>
+        </span>
+			</SUBTITLE>
+			<IMG>project-biolit-12.jpg</IMG>
+			<HTML>
+				<p>Throughout this project we created a proposal for a garden that would be efficient.</p>
+				<h2>Child Projects</h2>
+				<table border="1" style="width:100%">
+					<thead>
+						<tr>
+							<th>Project</th>
+							<th>Dates</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td><a href="#biolit-prj_native-grasses">Native Grasses</a></td>
+							<td>
+								<span class="date-pair">
+									<b>04/07/2015</b>
+									<i> - </i>
+									<b>04/14/2015</b>
+								</span>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</HTML>
+		</PROJECT>
+    <PROJECT>
+      <QUARTER>4</QUARTER>
+      <ID>native-grasses</ID>
+      <NAME>Native Grasses</NAME>
+      <TITLE>Native Grasses <i>(Quickfire)</i></TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>04/07/2015</b>
+          <i> - </i>
+          <b>04/14/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-biolit-10.png</IMG>
+      <HTML>
+        <p>Throughout this project we wrote a letter to our landowners explaining why they should implement native flora as opposed to foreign flora.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>4</QUARTER>
+      <ID>alchemist</ID>
+      <NAME>The Alchemist</NAME>
+      <TITLE>The Alchemist</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>04/15/2015</b>
+          <i> - </i>
+          <b>04/28/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-biolit-11.jpg</IMG>
+      <HTML>
+        <p>During this project we created items that represented Santiago's Journey, however they were aligned to our topic. Our topic was basically the following: <quote>"What are the pros and cons of Santiago going on his journey?"</quote></p>
+      </HTML>
+    </PROJECT>
+  </PROJECTS>
+</COURSE>

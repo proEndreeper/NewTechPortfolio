@@ -1,0 +1,113 @@
+<COURSE>
+  <YEAR>2</YEAR>
+  <ID>visual_arts</ID>
+  <NAME>Exploring Visual Arts</NAME>
+	<SUBTITLE>also known as EVA or Visual Arts</SUBTITLE>
+  <DESC></DESC>
+  <PROJECTS>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>indigenous-art</ID>
+      <NAME>Indigenous Art</NAME>
+      <TITLE>Indigenous Art</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>01/08/2015</b>
+          <i> - </i>
+          <b>02/10/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-visual-arts-00.jpg</IMG>
+      <HTML>
+        <p>During this project, we created artwork that demonstrated our knowledge of how those who were native to a land were to create art</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>string-art</ID>
+      <NAME>String Art</NAME>
+      <TITLE>String Art <i>(Quickfire)</i></TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>02/17/2015</b>
+          <i> - </i>
+          <b>02/20/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-visual-arts-01.jpg</IMG>
+      <HTML>
+        <p>During this project, we created a design that we then used as a template to create an artwork using string wrapped around nails.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>fiber-arts</ID>
+      <NAME>Fiber Arts</NAME>
+      <TITLE>Fiber Arts <i>(Quickfire)</i></TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>02/23/2015</b>
+          <i> - </i>
+          <b>02/27/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-visual-arts-02.jpg</IMG>
+      <HTML>
+        <p>During this project we were given the object of making a hat or a scarf. We then over the course of the week created our item from yarn.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>murals</ID>
+      <NAME>Collaborative Murals</NAME>
+      <TITLE>Collaborative Murals</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>03/02/2015</b>
+          <i> - </i>
+          <b>03/20/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-visual-arts-03.jpg</IMG>
+      <HTML>
+        <p>During this project we made a video that demonstrated our group's progress together upon the creation of a mural.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>4</QUARTER>
+      <ID>social-commentary</ID>
+      <NAME>Social Commentary Art</NAME>
+      <TITLE>Social Commentary Art</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>03/23/2015</b>
+          <i> - </i>
+          <b>04/21/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-visual-arts-04.jpg</IMG>
+      <HTML>
+        <p>During this project we learned the techniques of screen printing.</p>
+        <p>We then applied it to a societal issue that aligned with a charity.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>4</QUARTER>
+      <ID>individual-art-study</ID>
+      <NAME>Individual Art Study</NAME>
+      <TITLE>Individual Art Study</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>04/24/2015</b>
+          <i> - </i>
+          <b>05/13/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-visual-arts-05.jpg</IMG>
+      <HTML>
+        <p>During this project we proposed an idea of artwork that we wanted to do.</p>
+				<p>I chose to create a planet with a Mass Relay orbiting it.</p>
+      </HTML>
+    </PROJECT>
+  </PROJECTS>
+</COURSE>

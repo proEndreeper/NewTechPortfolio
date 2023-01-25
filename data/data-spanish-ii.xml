@@ -1,0 +1,147 @@
+<COURSE>
+  <YEAR>2</YEAR>
+  <ID>spanish_2</ID>
+  <NAME>Spanish II</NAME>
+	<SUBTITLE></SUBTITLE>
+  <DESC></DESC>
+  <PROJECTS>
+    <PROJECT>
+      <QUARTER>1</QUARTER>
+      <ID>nos-conectamos</ID>
+      <NAME>Nos conectamos?</NAME>
+			<TITLE>Nos conectamos? <i>(We Connect?)</i></TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>08/25/2014</b>
+					<i> - </i>
+					<b>09/19/2014</b>
+				</span>
+      </SUBTITLE>
+      <IMG>project-spanish2-00.jpg</IMG>
+      <HTML>
+				<p>For this project we learned about our classmates.</p>
+			</HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>1</QUARTER>
+      <ID>locos-por-la-moda</ID>
+      <NAME>Locos por la moda!</NAME>
+			<TITLE>Locos por la moda! <i>(Crazy for the model)</i></TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>09/22/2014</b>
+					<i> - </i>
+					<b>10/17/2014</b>
+				</span>
+      </SUBTITLE>
+			<IMG>project-spanish2-01.jpg</IMG>
+      <HTML>
+				<p>In this project we designed an outfit that we presented in a fashion show.</p>
+			</HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>2</QUARTER>
+      <ID>dia-de-los-muertos</ID>
+      <NAME>Dia de los muertos</NAME>
+			<TITLE>Dia de los muertos <i>(Day of the dead)</i></TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>10/20/2014</b>
+					<i> - </i>
+					<b>11/07/2014</b>
+				</span>
+      </SUBTITLE>
+			<IMG>project-spanish2-02.jpg</IMG>
+      <HTML>
+				<p>For this project, the class created an altar that commemorated two artists.</p>
+			</HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>2</QUARTER>
+      <ID>habia-una-vez</ID>
+      <NAME>Habia una vez</NAME>
+			<TITLE>Habia una vez <i>(Once upon a time)</i></TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>11/17/2014</b>
+					<i> - </i>
+					<b>12/19/2014</b>
+				</span>
+      </SUBTITLE>
+			<IMG>project-spanish2-03.jpg</IMG>
+      <HTML>
+				<p>Throughout this project, our group created a self-illustrated book for 5 and 6 year olds.</p>
+			</HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>mejor-de-2014</ID>
+      <NAME>Lo mejor de 2014</NAME>
+      <TITLE>Lo mejor de 2014 <i>(The best of 2014)</i></TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>01/05/2015</b>
+          <i> - </i>
+          <b>02/06/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-spanish2-04.jpg</IMG>
+      <HTML>
+        <p>Throughout this project were we to create a video demonstrating what we thought was the best of 2014.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>ayer-hoy-manana</ID>
+      <NAME>Ayer, Hoy, Manana</NAME>
+      <TITLE>Ayer, Hoy, Manana <i>(Yesterday, Today, Tomorrow)</i></TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>02/17/2015</b>
+          <i> - </i>
+          <b>03/20/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-base.png</IMG>
+      <HTML>
+        <p>This project was about ourselves, and as a result we were to talk about things we did in the past, things we have done, as well as things we want to do in the future.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>4</QUARTER>
+      <ID>lo-que-yo-quiera</ID>
+      <NAME>Lo que yo quiera</NAME>
+      <TITLE>Lo que yo quiera <i>(It that I want)</i></TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>03/25/2015</b>
+          <i> - </i>
+          <b>04/17/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-spanish2-05.jpg</IMG>
+      <HTML>
+        <p>During this project we created our own criteria for what was to be made.</p>
+				<p>My group chose to create a small game, other groups chose to do a bake sale.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>4</QUARTER>
+      <ID>diversion-en-3d</ID>
+      <NAME>Diversion en 3D</NAME>
+      <TITLE>Diversion en 3D <i>(3D Game)</i></TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>04/20/2015</b>
+          <i> - </i>
+          <b>05/08/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-spanish2-06.jpg</IMG>
+      <HTML>
+        <p>During this project we created a 3D Game.</p>
+				<p>My group chose to create a game where you traveled the route that Spaniards took in their capture of Mexico.</p>
+      </HTML>
+    </PROJECT>
+  </PROJECTS>
+</COURSE>

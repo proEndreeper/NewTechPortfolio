@@ -1,0 +1,117 @@
+<COURSE>
+  <YEAR>2</YEAR>
+  <ID>chem</ID>
+  <NAME>Chemistry</NAME>
+	<SUBTITLE></SUBTITLE>
+  <DESC></DESC>
+  <PROJECTS>
+    <PROJECT>
+      <QUARTER>1</QUARTER>
+      <ID>safety-first</ID>
+      <NAME>Safety First!</NAME>
+			<TITLE>Safety First!</TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>08/20/2014</b>
+					<i> - </i>
+					<b>09/19/2014</b>
+				</span>
+      </SUBTITLE>
+			<IMG>project-chem-00.bmp</IMG>
+      <HTML>
+        <p>This project was simply the prelude that taught us the fundamental principles that we must abide by in the lab.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>1</QUARTER>
+      <ID>isnt-it-atomic</ID>
+      <NAME>Isn&apos;t it Atomic?</NAME>
+      <TITLE>Isn&apos;t it Atomic?</TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>09/23/2014</b>
+					<i> - </i>
+					<b>10/20/2014</b>
+				</span>
+      </SUBTITLE>
+      <IMG>project-chem-01.jpg</IMG>
+      <HTML>
+        <p>For this project, we went over the structure of an atom, as well as some of the atomic models. We had to make a model and a reference card, in which I did the model. The reference card was built into the model as well.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>2</QUARTER>
+      <ID>real-elements-of-new-tech</ID>
+      <NAME>Real Elements of New Tech</NAME>
+			<TITLE>Real Elements of New Tech</TITLE>
+      <SUBTITLE>
+				<span class="date-pair">
+					<b>10/27/2014</b>
+					<i> - </i>
+					<b>12/12/2014</b>
+				</span>
+      </SUBTITLE>
+			<IMG>project-chem-02.jpg</IMG>
+      <HTML>
+        <p>During this project we created analogies for a few of the periodic trends (atomic radius, ionization energy, electronegativity, etc.)</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>matchmaker</ID>
+      <NAME>Chemistry Matchmaker</NAME>
+      <TITLE>Chemistry Matchmaker</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>01/05/2015</b>
+          <i> - </i>
+          <b>01/21/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-base.png</IMG>
+      <HTML>
+        <p>During this project, we, along with a partner, conducted a play that demonstrated our knowledge of telling the difference between a covalent and an ionic bond.</p>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>3</QUARTER>
+      <ID>rxn-ology</ID>
+      <NAME>Reaction-ology</NAME>
+      <TITLE>Reaction-ology</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>01/23/2015</b>
+          <i> - </i>
+          <b>03/06/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-chem-03.jpg</IMG>
+      <HTML>
+        <p>Throughout this project we created a podcast that demonstrated the qualities and appearance of various reactions. The reactions included were, and are not limited to:</p>
+        <ul>
+          <li>Synthesis</li>
+          <li>Combustion</li>
+          <li>Single Replacement</li>
+          <li>Double Replacement</li>
+        </ul>
+      </HTML>
+    </PROJECT>
+    <PROJECT>
+      <QUARTER>4</QUARTER>
+      <ID>rocket-science</ID>
+      <NAME>Keep Calm It's Not Rocket Science</NAME>
+      <TITLE>Keep Calm It's Not Rocket Science</TITLE>
+      <SUBTITLE>
+        <span class="date-pair">
+          <b>03/16/2015</b>
+          <i> - </i>
+          <b>05/13/2015</b>
+        </span>
+      </SUBTITLE>
+      <IMG>project-chem-04.png</IMG>
+      <HTML>
+        <p>During this project we created a letter that explained why we thought the chemist messed up the ratio of hydrogen to oxygen.</p>
+      </HTML>
+    </PROJECT>
+  </PROJECTS>
+</COURSE>
